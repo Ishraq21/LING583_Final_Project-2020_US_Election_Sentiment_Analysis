@@ -1,7 +1,7 @@
 # LING583_Final_Project-2020_US_Election_Sentiment_Analysis
 This is my individual final project for class Linguistic 583 - Statistical Methods in Text Analysis
 
-**DataL**
+**Data**
 
 For this project I used Sentiment Analysis US Presidential Elections 2020 Dataset from Kaggle:
 https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets
