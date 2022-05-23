@@ -12,4 +12,4 @@ Pre-process and train my data using multiple different classifiers to predict th
 
 **What are the deliverables?**
 
-The deliveries is a a Jupyter notebook in HTML and a link to the dataset. Not to mention there is also be a summary of the preprocessing methods, models, predictions, limitations and results at the end of my notebook. 
+The deliveries is a a Jupyter notebook in HTML. Not to mention there is also be a summary of the preprocessing methods, models, predictions, limitations and results at the end of my notebook. 
